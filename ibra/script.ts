@@ -7,3 +7,15 @@ let  datoVacio: Number;
 
 datoVacio = 5;
 datoVacio = 394;
+
+
+const operadores: string [] = ["+","-","*","/","&&","||","===","!=="];
+
+const numero1: number = 1;
+const numero2: number = 2;
+
+const comparacion: boolean = (1===1);
+const comparacion2: boolean = (numero1===numero2);
+
+console.log(comparacion);
+console.log(comparacion2);
